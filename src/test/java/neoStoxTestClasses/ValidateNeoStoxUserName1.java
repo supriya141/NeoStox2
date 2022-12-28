@@ -28,6 +28,7 @@ public class ValidateNeoStoxUserName1 extends Base{
 	NeoStoxHomePage home;
 	NeoStoxSignInPage signIn;
 	
+	
 	@BeforeClass
 	public void launchNeoStox() throws InterruptedException
 	{
