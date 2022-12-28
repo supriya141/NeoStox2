@@ -50,7 +50,7 @@ public class ValidateNeoStoxUserName1 extends Base{
 		password.enterPassword(driver, UtilityNew.readDataFromPropertyFile("password"));
 		Thread.sleep(1000);
 		password.clickOnSubmitButton(driver);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		home.handlePopUp(driver);
 		
 		
