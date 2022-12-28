@@ -39,6 +39,7 @@ public class ValidateNeoStoxUserName1 extends Base{
 		
 	}
 	
+	
 	@BeforeMethod
 	public void loginItoNeostox() throws EncryptedDocumentException, IOException, InterruptedException {
 		signIn.clickOnSignInButton(driver);
