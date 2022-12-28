@@ -140,19 +140,19 @@
       <![CDATA[Waiting for time1000ms]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-20T11:18:20 IST" name="Suite" finished-at="2022-12-20T11:18:53 IST" duration-ms="32541">
+  <suite started-at="2022-12-20T12:02:40 IST" name="Suite" finished-at="2022-12-20T12:03:10 IST" duration-ms="29349">
     <groups>
     </groups>
-    <test started-at="2022-12-20T11:18:20 IST" name="Test" finished-at="2022-12-20T11:18:53 IST" duration-ms="32541">
+    <test started-at="2022-12-20T12:02:40 IST" name="Test" finished-at="2022-12-20T12:03:10 IST" duration-ms="29349">
       <class name="neoStoxTestClasses.ValidateNeoStoxUserName1">
-        <test-method is-config="true" signature="launchNeoStox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@2c35e847]" started-at="2022-12-20T11:18:20 IST" name="launchNeoStox" finished-at="2022-12-20T11:18:33 IST" duration-ms="13048" status="PASS">
+        <test-method is-config="true" signature="launchNeoStox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@1e0b4072]" started-at="2022-12-20T12:02:41 IST" name="launchNeoStox" finished-at="2022-12-20T12:02:48 IST" duration-ms="7745" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchNeoStox -->
-        <test-method is-config="true" signature="loginItoNeostox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@2c35e847]" started-at="2022-12-20T11:18:33 IST" name="loginItoNeostox" finished-at="2022-12-20T11:18:43 IST" duration-ms="9601" status="PASS">
+        <test-method is-config="true" signature="loginItoNeostox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@1e0b4072]" started-at="2022-12-20T12:02:48 IST" name="loginItoNeostox" finished-at="2022-12-20T12:02:58 IST" duration-ms="9884" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for time1000ms]]>
@@ -207,7 +207,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- loginItoNeostox -->
-        <test-method signature="validateUserID()[pri:-1, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@2c35e847]" started-at="2022-12-20T11:18:43 IST" name="validateUserID" finished-at="2022-12-20T11:18:43 IST" duration-ms="458" status="PASS">
+        <test-method signature="validateUserID()[pri:-1, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@1e0b4072]" started-at="2022-12-20T12:02:58 IST" name="validateUserID" finished-at="2022-12-20T12:02:59 IST" duration-ms="387" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for time1000ms]]>
@@ -229,7 +229,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateUserID -->
-        <test-method is-config="true" signature="logOut()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@2c35e847]" started-at="2022-12-20T11:18:43 IST" name="logOut" finished-at="2022-12-20T11:18:44 IST" duration-ms="205" status="PASS">
+        <test-method is-config="true" signature="logOut()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@1e0b4072]" started-at="2022-12-20T12:02:59 IST" name="logOut" finished-at="2022-12-20T12:02:59 IST" duration-ms="224" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for time1000ms]]>
@@ -239,7 +239,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- logOut -->
-        <test-method is-config="true" signature="loginItoNeostox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@2c35e847]" started-at="2022-12-20T11:18:44 IST" name="loginItoNeostox" finished-at="2022-12-20T11:18:52 IST" duration-ms="8358" status="PASS">
+        <test-method is-config="true" signature="loginItoNeostox()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@1e0b4072]" started-at="2022-12-20T12:02:59 IST" name="loginItoNeostox" finished-at="2022-12-20T12:03:09 IST" duration-ms="9984" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for time1000ms]]>
@@ -282,7 +282,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- loginItoNeostox -->
-        <test-method signature="validateAccountBalance()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@2c35e847]" started-at="2022-12-20T11:18:52 IST" name="validateAccountBalance" finished-at="2022-12-20T11:18:52 IST" duration-ms="248" status="PASS">
+        <test-method signature="validateAccountBalance()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@1e0b4072]" started-at="2022-12-20T12:03:09 IST" name="validateAccountBalance" finished-at="2022-12-20T12:03:09 IST" duration-ms="329" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for time1000ms]]>
@@ -301,7 +301,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateAccountBalance -->
-        <test-method is-config="true" signature="logOut()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@2c35e847]" started-at="2022-12-20T11:18:52 IST" name="logOut" finished-at="2022-12-20T11:18:52 IST" duration-ms="182" status="PASS">
+        <test-method is-config="true" signature="logOut()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@1e0b4072]" started-at="2022-12-20T12:03:09 IST" name="logOut" finished-at="2022-12-20T12:03:09 IST" duration-ms="260" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for time1000ms]]>
@@ -311,7 +311,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- logOut -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@2c35e847]" started-at="2022-12-20T11:18:52 IST" name="closeBrowser" finished-at="2022-12-20T11:18:53 IST" duration-ms="378" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStoxTestClasses.ValidateNeoStoxUserName1@1e0b4072]" started-at="2022-12-20T12:03:09 IST" name="closeBrowser" finished-at="2022-12-20T12:03:10 IST" duration-ms="391" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
